@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1780508275244,
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-06-03",
+    "note": "Pizza",
+    "createdAt": "2026-06-03T17:37:55.244Z"
+  },
+  {
+    "id": 1780658130303,
+    "amount": 3,
+    "category": "Transport",
+    "date": "2026-06-05",
+    "note": "",
+    "createdAt": "2026-06-05T11:15:30.303Z"
+  },
+  {
+    "id": 1780658133549,
+    "amount": 3,
+    "category": "Transport",
+    "date": "2026-06-05",
+    "note": "",
+    "createdAt": "2026-06-05T11:15:33.549Z"
+  },
+  {
+    "id": 1780658177517,
+    "amount": 2,
+    "category": "Transport",
+    "date": "2026-06-05",
+    "note": "",
+    "createdAt": "2026-06-05T11:16:17.517Z"
+  },
+  {
+    "id": 1780659093301,
+    "amount": 4,
+    "category": "Bills",
+    "date": "2026-06-05",
+    "note": "",
+    "createdAt": "2026-06-05T11:31:33.301Z"
+  },
+  {
+    "id": 1780739437427,
+    "amount": 2,
+    "category": "Transport",
+    "date": "2026-06-06",
+    "note": "",
+    "createdAt": "2026-06-06T09:50:37.427Z"
+  }
+]
